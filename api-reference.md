@@ -8,3 +8,12 @@ Base URL:
 
 ```http
 https://api.taskflow.example.com
+## GET /tasks
+
+### Description
+Retrieve a list of all tasks.
+
+### Request
+
+```http
+GET /tasks
